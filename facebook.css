@@ -1,0 +1,26 @@
+header{
+  display: inline;
+  color: white;
+  background-color: blue;
+  position: fixed;
+  width: 100%;
+  top:0px;
+  left: 0px;
+}
+table {
+  width: 100%;
+}
+aside{position: fixed;
+  top:24px;
+  left:0px;
+  background-color: dimgrey;
+  width: 30%;
+  float: left;
+  height: 100%;
+}
+main{
+  float: left;
+  background-color: #cccccc;
+  width: 70%;
+  padding-left:30% ;
+}
